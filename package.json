@@ -29,6 +29,6 @@
 		}
 	],
 	"scripts": {
-		"prepublish": "jake lib/index.js"
+		"prepublish": "jake"
 	}
 }
